@@ -1,0 +1,130 @@
+ 
+ .header{
+    height: 170px;
+    background-color: #59316B;
+    width: 100%;
+     
+     
+ 
+}
+.header-container{
+  padding-left: 38px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+    
+ 
+}
+.leftside{
+    display: flex;
+    align-items: center;
+    margin-right: 240px;
+    
+}
+
+.imagelogo{
+  margin-top: 7px;
+  height: 49px;
+  margin-right: 5px;
+  cursor: pointer;
+  
+}
+ 
+.donate{
+    margin-left: 19px;
+    background-color: #FBBE22;
+    border-radius: 4px;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px;
+    margin-bottom: 10px;
+    cursor:pointer;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-top: 8px;
+     
+}
+.middle-section{
+  margin-right: 10px;
+
+}
+.middle{
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-top: 24px;
+  margin-left: 21px;
+    
+
+}
+ 
+ 
+.about ,.support,.community,.blog,.Donate {
+    margin-right: 18px;
+    list-style-type:none;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+} 
+ .about:hover{
+    color: rgb(224, 221, 221);
+ }
+ .support:hover{
+    color:  rgb(224, 221, 221);
+
+ }
+ .community:hover{
+    color:  rgb(224, 221, 221);
+    
+ }
+ .blog:hover{
+    color: rgb(224, 221, 221);
+    
+    
+ }
+ .Donate:hover{
+    color:  rgb(224, 221, 221);
+    
+ }
+ .leftside{
+   
+    display: flex;
+    align-items: center;
+ }
+ .english{
+  padding-top: 19px;
+  margin-left: 271px;
+  background-color: #59316B;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: lighter;
+
+     
+ 
+ }
+ 
+ .fa-caret-down{
+   margin: 7px;
+ }
+ .Download-browser{
+   background-color: #59316B;
+   border: 1px solid white;
+   color: white;
+   font-size: 15px;
+   border-radius: 4px;
+   padding-left: 13px;
+   padding-right: 18px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+
+ }
+ .Download-browser:hover{
+   background-color: white;
+   color: black;
+   cursor: pointer;
+ }
+  
+ 

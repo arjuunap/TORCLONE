@@ -1,0 +1,454 @@
+ 
+body{
+    margin: 0px;
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    
+}
+*{
+    box-sizing: border-box;
+}
+.center-part{
+    background-color: #59316B;
+    padding-top: 10px;
+    height: 479px;
+    background-size: cover;
+    
+     
+}
+.browse{
+    color: white;
+    font-size: 88px;
+    margin-left: 455px;
+    margin-top: 60px;
+    font-weight: 300;
+    
+    
+    
+    
+}
+.explore{
+    margin-top: 2px;
+    color: white;
+    font-size: 88px;
+    margin-left: 500px;
+    font-weight: 300;
+
+}
+.para{
+    
+    color: white;
+    margin-left: 330px;
+    font-size:26px;
+    font-weight: 400;
+     
+}
+.center-part{
+    line-height: 17px; 
+}
+.button-2-download{
+    margin-top: 52px;
+    margin-left: 631px;
+    padding: 13px;
+    background-color: #59316B;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.button-2-download:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+.fa-arrow-down{
+    margin-left: 6px;
+    font-weight: bolder;
+}
+.block-trackers-image{
+    height: 320px;
+    margin-left: 200px;
+    margin-right: 75px;
+}
+.container-1{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+
+}
+.block-trackers{
+    margin-bottom: 87px;
+    color: #59316B;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.5rem;
+     
+     
+}
+.para-1{
+    font-size: 1.3rem;
+     color: #212529;
+     margin-top: -66px;  
+}
+.text-1{
+    margin-top: -46px;
+}
+.surveillance-image{
+    height: 327px;
+    margin-left: 77px;
+    
+}
+.defend{
+    margin-bottom: 87px;
+    color: #59316B;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.5rem;
+}
+.para-2{
+    font-size: 1.3rem;
+    color: #212529;
+    margin-top: -66px;
+}
+.container-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.image-box-2{
+    margin-top: -53px;
+}
+.container-3{
+    display: flex;
+    justify-content: center;
+    margin-top: 63px;
+}
+.fingerprinting-image{
+    height: 327px;
+}
+.resist{
+    margin-bottom: 87px;
+    color: #59316B;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.5rem;
+}
+.para-3{
+    font-size: 1.3rem;
+    color: #212529;
+    margin-top: -66px;
+
+}
+.text-3{
+    margin-top: 30px;
+
+}
+.image-box-3{
+    margin-right: 32px;
+}
+.container-4{
+    display: flex;
+    justify-content: center;
+    margin-top: 63px;
+
+}
+.multi{
+    margin-bottom: 87px;
+    color: #59316B;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.5rem;
+}
+ 
+.encryption-image{
+    height: 327px;
+    margin-top: -44px;
+    margin-left: 100px;
+    margin-right: -61px;
+
+}
+ 
+.para-4{
+    font-size: 1.3rem;
+    color: #212529;
+    margin-top: -66px;
+}
+.container-5{
+    display:flex;
+    justify-content: center;
+    margin-top: 38px;
+
+}
+ 
+.browse-freely {
+    margin-bottom: 87px;
+    color: #59316B;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.5rem;
+
+}
+.browse-freely-image{
+    height: 327px;
+    
+}
+.text-5{
+    margin-left: 47px;
+    margin-top: 39px;
+
+}
+.para-5{
+    font-size: 1.3rem;
+    color: #212529;
+    margin-top: -66px;
+
+}
+.container-6{
+    display: flex;
+    flex-direction: column;
+     
+}
+.about-us{
+    font-weight: 600;
+    color: #7d4698;
+    font-size: 16px;
+    margin-top: 64px;
+    margin-left: 197px;
+    
+}
+.para-6{
+    color: #484848;
+    font-size: 4.5rem;
+    line-height: 5rem;
+    font-weight: 100;
+    margin-top: -25px;
+    margin-left: 195px;
+}
+span{
+    color: #7d4698;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.meet-our-team:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: #59316B;
+     
+}
+.footer-1{
+    background-color: #592d6c;
+    display: flex;
+    margin-top: 27px;
+    
+}
+.circle{
+    height: 285px;
+    margin-left: -613px;
+    
+}
+.download-tor-browser-2{
+    color: white;
+    font-size: 32px;
+    font-weight: normal;
+}
+.download-tor-browser-2-para{
+    
+    color: white;
+    font-size: 20px;
+    margin-top: -14px;
+    line-height: 30px;
+}
+.text-footer-1{
+    margin-left: 239px;
+    margin-top: 80px;
+    
+}
+.download-botton-footer{
+    padding: 11px;
+    border-radius: 5px;
+    border: none;
+    color: #731e9c;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.violet{
+    color:#59316B;
+    margin-left: 12px;
+    margin-right: 3px;
+} 
+.footer-2{
+    display: flex;
+    justify-content: center;
+    background-color: #592d6c;
+}
+.footer-2-text{
+    margin-left: 100px;
+    margin-top: 65px;
+}
+.our-mission{
+    color: white;
+    font-weight: 700;
+    font-size: 19px;
+}
+.footer-para-1{
+    color: white;
+    font-size: 20px;
+    line-height: 36px;
+    margin-top: -28px;
+}
+.footer-2-links{
+    display: flex;
+    flex-direction: column;
+    line-height: 33px;
+    margin-top: 93px;
+    padding-right: 243px;
+    margin-left: 49px;
+}
+.jobs,.blog,.contact,.press,.privchat,.donatebutton-footer{
+    text-decoration: none;
+    color: white;
+}
+.donatebutton-footer{
+    color: #111;
+    background-color: #ffbf00;
+    border-radius: 4px;
+    font-weight: 500;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 5px;
+    margin-left: -8px;
+}
+.footer-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #592d6c;
+    
+}
+.footer-3-text{
+    display: flex;
+    flex-direction: column;
+    margin-right: -75px;;
+    margin-top: 32px;
+    flex: 2;
+}
+.subscribe-para{
+    color: #e6d5ee;
+   font-size: 20px;
+   line-height: 32px;
+   margin-bottom: 0px;
+
+}
+.get-monthly{
+    font-size: 20px;
+   color: #f8f9fa ;
+
+
+}
+.sign-up{
+    background-color: #3c2148;
+    border-radius: 4px;
+    color: white;
+    width: 88px;
+    padding: 5px;
+    padding-left: 16px;
+    padding-bottom: 7px;
+    margin-top: 6px;
+    cursor: pointer;
+     
+
+}
+.footer-3-center{
+    display: flex;
+    width: 66%;
+}
+.fa-brands{
+    font-size: 23px;
+}
+.for-grid{
+     
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 29px;
+    row-gap: 15px;
+}
+.footer-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    margin-top: 26px;
+}
+
+.discourse{
+    color: white;
+}
+.facebook{
+    color: white;    
+}
+.mastodon{
+    color: white;
+}
+.instagram{
+    color: white;
+}
+.twitter{
+    color: white;
+}
+.linkedin{
+    color: white;
+}
+.github{
+    color: white;
+}
+.telegram{
+    color: white;
+}
+.gitlab{
+    color: white;
+}
+.footer-4{
+    background-color: #592d6c;
+    height: 130px;
+    margin-top: -20px;
+    display: flex;
+}
+.para-trademark{
+    color: white;
+    font-size: 20px;
+    padding-top: 46px;
+    padding-left: 144px;
+}
+.faq{
+    text-decoration: underline;
+    color: white;
+    cursor: pointer;
+}
+.footer-english-button{
+    color: #fff;
+    background-color: #7d4698;
+    border-color: #7d4698;
+    height: 28px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 64px;
+    margin-left: 318px;
+    padding-top: 7px;
+    padding-bottom: 11px;
+    padding-right: 9px;
+    padding-left: 11px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.fa-caret-up{
+    margin-left: 9px;
+}
+ 
+ 
+ 
+  
